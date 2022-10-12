@@ -4,17 +4,13 @@
   <img src="https://komarev.com/ghpvc/?username=FabioKnuppVaz&style=for-the-badge" />
 </a>
 
-<div>
-
 <a>
-  <img src="https://github-readme-stats.vercel.app/api?username=FabioKnuppVaz&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FabioKnuppVaz&show_icons=true&include_all_commits=true" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioKnuppVaz&langs_count=99&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioKnuppVaz&langs_count=99" />
 </a>
-
-</div>
 
 <a>
   <img src="https://github.com/FabioKnuppVaz/FabioKnuppVaz/blob/output/github-contribution-grid-snake.svg" />
