@@ -11,12 +11,12 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioKnuppVaz&langs_count=99&layout=compact" />
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioKnuppVaz&langs_count=99&layout=compact" />
 </a>
 
 </div>
 
 <a>
-  <img src="https://github.com/FabioKnuppVaz/FabioKnuppVaz/blob/output/github-contribution-grid-snake.svg" />
+  <img height="176em" src="https://github.com/FabioKnuppVaz/FabioKnuppVaz/blob/output/github-contribution-grid-snake.svg" />
 </a>
 
