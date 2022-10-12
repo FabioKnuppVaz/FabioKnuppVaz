@@ -5,7 +5,7 @@
 </a>
 
 <a>
-  <img src="https://github-readme-stats.vercel.app/api?username=FabioKnuppVaz&show_icons=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FabioKnuppVaz&show_icons=true" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
