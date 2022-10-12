@@ -7,11 +7,11 @@
 <div>
 
 <a>
-  <img src="https://github-readme-stats.vercel.app/api?username=FabioKnuppVaz&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioKnuppVaz&show_icons=true" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioKnuppVaz&langs_count=99&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioKnuppVaz&langs_count=99&layout=compact" />
 </a>
 
 </div>
