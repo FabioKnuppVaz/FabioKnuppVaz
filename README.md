@@ -21,4 +21,4 @@
   <img src="https://github.com/FabioKnuppVaz/FabioKnuppVaz/blob/output/github-contribution-grid-snake.svg" />
 </a>
 
-Veja meu portifólio [portifólio](https://fabioknuppvaz.github.io)
+Veja meu [portfolio](https://fabioknuppvaz.github.io)
