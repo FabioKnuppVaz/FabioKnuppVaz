@@ -7,7 +7,7 @@ Github em processo de construção. No momento estou documentando os projetos an
 <div>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-    <img alt="github-snake" src="github-snake.svg" />
+    <img alt="github-snake-dark" src="github-snake-dark.svg" />
   </picture>
 
   <div>
