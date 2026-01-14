@@ -18,15 +18,6 @@ Github em processo de construção. No momento estou documentando os projetos an
     <img src="https://komarev.com/ghpvc/?username=FabioKnuppVaz&style=for-the-badge" />
   </div>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=FabioKnuppVaz&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=FabioKnuppVaz&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=FabioKnuppVaz&show_icons=true" />
-</picture>
 <div>  
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
