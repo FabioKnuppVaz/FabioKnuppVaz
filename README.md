@@ -20,6 +20,9 @@ Github em processo de construção. No momento estou documentando os projetos an
 
 <div>  
 
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=FabioKnuppVaz)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/
+?username=SEU_USUARIO
+&layout=compact
+&hide=html,css,shell,dockerfile)
 
 
