@@ -20,4 +20,5 @@ Github em processo de construção. No momento estou documentando os projetos an
 
 <div>  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioKnuppVaz&layout=compact)
+
