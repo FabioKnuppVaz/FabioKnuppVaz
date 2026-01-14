@@ -1,6 +1,6 @@
 ## Olá pessoal 👋
 
-<!--Veja meu portifolio <a href="https://fabioknuppvaz.github.io">aqui</a> -->
+Veja meu portifolio <a href="https://fabioknuppvaz.github.io">aqui</a>
 
 Github em processo de construção. No momento estou documentando os projetos antigos e aplicando github actions com testes.
 
