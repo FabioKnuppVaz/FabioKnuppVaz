@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="https://github.com/seunome/FabioKnuppVaz/blob/main/snake.svg" alt="Snake Game" />
-</p>
+![snake animation](https://github.com/FabioKnuppVaz/FabioKnuppVaz/blob/output/github-contribution-grid-snake2.svg)
