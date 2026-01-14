@@ -17,4 +17,8 @@ Github em processo de construção. No momento estou documentando os projetos an
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <img src="https://komarev.com/ghpvc/?username=FabioKnuppVaz&style=for-the-badge" />
   </div>
+
+  <div>
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabioKnuppVaz)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
 <div>  
