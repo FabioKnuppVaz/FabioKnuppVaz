@@ -18,10 +18,15 @@ Github em processo de construção. No momento estou documentando os projetos an
     <img src="https://komarev.com/ghpvc/?username=FabioKnuppVaz&style=for-the-badge" />
   </div>
 
-  <div>
-    <a href="https://github.com/seu-usuário-aqui">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioKnuppVaz&layout=compact&langs_count=7&theme=dracula"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioKnuppVaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-  </div>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=FabioKnuppVaz&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=FabioKnuppVaz&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=FabioKnuppVaz&show_icons=true" />
+</picture>
 <div>  
