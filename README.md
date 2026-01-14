@@ -1,7 +1,5 @@
 ## Olá pessoal 👋
 
-Veja meu portifolio <a href="https://fabioknuppvaz.github.io">aqui</a>
-
 Github em processo de construção. No momento estou documentando os projetos antigos e aplicando github actions com testes.
 
 <div>
@@ -11,6 +9,8 @@ Github em processo de construção. No momento estou documentando os projetos an
   </picture>
 
   <div>
+    <a href="https://fabioknuppvaz.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white"></a>
     <a href="https://medium.com/@fbiovaz_36706">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a> 
     <a href="https://www.linkedin.com/in/f%C3%A1bio-k-262931142/">
