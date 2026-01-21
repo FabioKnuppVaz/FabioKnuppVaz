@@ -3,10 +3,20 @@
 Github em processo de construção. No momento estou documentando os projetos antigos e aplicando github actions com testes.
 
 <div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-    <img alt="github-snake-dark" src="github-snake-dark.svg" />
-  </picture>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
   <div>
     <a href="https://fabioknuppvaz.github.io">
@@ -21,5 +31,3 @@ Github em processo de construção. No momento estou documentando os projetos an
   </div>
 
 <div>
-
-![snake gif](https://github.com/FabioKnuppVaz/FabioKnuppVaz/blob/output/github-contribution-grid-snake.svg)
