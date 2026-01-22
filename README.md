@@ -3,20 +3,22 @@
 Github em processo de construção. No momento estou documentando os projetos antigos e aplicando github actions com testes.
 
 <div>
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/FabioKnuppVaz/FabioKnuppVaz/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/FabioKnuppVaz/FabioKnuppVaz/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/FabioKnuppVaz/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/FabioKnuppVaz/FabioKnuppVaz/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/FabioKnuppVaz/FabioKnuppVaz/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/platane/FabioKnuppVaz/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+
+  [![fabio github stats](https://github-readme-stats.vercel.app/api?username=FabioKnuppVaz)](https://github.com/anuraghazra/github-readme-stats)
 
   <div>
     <a href="https://fabioknuppvaz.github.io">
