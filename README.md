@@ -18,10 +18,17 @@ Github em processo de construção. No momento estou documentando os projetos an
     />
   </picture>
 
-  [![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabioKnuppVaz)](https://github.com/anuraghazra/github-readme-stats)
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioKnuppVaz&layout=compact&langs_count=7&theme=dark"/>
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=FabioKnuppVaz&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=FabioKnuppVaz&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=FabioKnuppVaz&show_icons=true" />
+</picture>
   <div>
     <a href="https://fabioknuppvaz.github.io">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white"></a>
