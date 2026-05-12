@@ -18,7 +18,8 @@ Github em processo de construção. No momento estou documentando os projetos an
     />
   </picture>
 
-  [![fabio github stats](https://github-readme-stats.vercel.app/api?username=FabioKnuppVaz)](https://github.com/anuraghazra/github-readme-stats)
+  [![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabioKnuppVaz)](https://github.com/anuraghazra/github-readme-stats)
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioKnuppVaz&layout=compact&langs_count=7&theme=dark"/>
 
   <div>
