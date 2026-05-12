@@ -18,9 +18,6 @@ Github em processo de construção. No momento estou documentando os projetos an
     />
   </picture>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=FabioKnuppVaz&label=Profile%20views&color=0e75b6&style=flat" alt="FabioKnuppVaz" /> </p>
-
-
   <div>
     <a href="https://fabioknuppvaz.github.io">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white"></a>
