@@ -18,17 +18,9 @@ Github em processo de construção. No momento estou documentando os projetos an
     />
   </picture>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=FabioKnuppVaz&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=FabioKnuppVaz&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=FabioKnuppVaz&show_icons=true" />
-</picture>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=FabioKnuppVaz&label=Profile%20views&color=0e75b6&style=flat" alt="FabioKnuppVaz" /> </p>
+
+
   <div>
     <a href="https://fabioknuppvaz.github.io">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white"></a>
